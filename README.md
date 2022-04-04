@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/karenngomes/">
   <img align="left" alt="Karen's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/karenngomes">
-  <img align="left" alt="Karen's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <br />
 <br />
 
