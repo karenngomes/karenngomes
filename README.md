@@ -1,9 +1,9 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi, I'm Karen <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <a href="https://twitter.com/gomesskaren">
-  <img align="left" alt="Karen's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Karen's Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />
 </a>
 <a href="https://www.linkedin.com/in/karenngomes/">
-  <img align="left" alt="Karen's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Karen's LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <br />
 <br />
@@ -13,12 +13,11 @@
 
 Here are some ideas to get you started:
 -->
-🌱 I’m currently learning NodeJS, Flutter and React (always) <br/>
-👯 I’m looking to collaborate on any open source project!<br/>
-💬 Ask me about anything related to Javascript/Typescript/React <br/>
+🌱 I’m currently learning NodeJS, and ReactJS (always) <br/>
+💬 Ask me about anything related to Javascript/Typescript/ReactJS <br/>
 📫 How to reach me: [@gomesskaren](https://twitter.com/gomesskaren) or <a rel="me" href="mailto:kngs@ic.ufal.br">kngs@ic.ufal.br</a><br/>
 😄 Pronouns: she/her<br/>
-⚡ Fun fact: I don't like coffee...yeah...sorry
+⚡ Fun fact: I don't like coffee...yeah...I'm sorry
 
 📈 My GitHub Stats:
 
