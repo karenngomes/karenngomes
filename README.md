@@ -1,6 +1,6 @@
 ### Hi, I'm Karen <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<a href="https://twitter.com/gomesskaren">
-  <img align="left" alt="Karen's Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />
+<a href="https://x/gomesskaren">
+  <img align="left" alt="Karen's Twitter" width="22px" src="https://cdn.simpleicons.org/x/blue" />
 </a>
 <a href="https://www.linkedin.com/in/karenngomes/">
   <img align="left" alt="Karen's LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
@@ -13,9 +13,9 @@
 
 Here are some ideas to get you started:
 -->
-🌱 I’m currently learning NodeJS, and ReactJS (always) <br/>
+🌱 I’m currently learning Python (NLP), NodeJS, and ReactJS (always) <br/>
 💬 Ask me about anything related to Javascript/Typescript/ReactJS <br/>
-📫 How to reach me: [@gomesskaren](https://twitter.com/gomesskaren) or <a rel="me" href="mailto:kngs@ic.ufal.br">kngs@ic.ufal.br</a><br/>
+📫 How to reach me: [@gomesskaren](https://twitter.com/gomesskaren) or <a rel="me" href="mailto:karenngomes.dev@gmail.com">karenngomes.dev@gmail.com<a><br/>
 😄 Pronouns: she/her<br/>
 ⚡ Fun fact: I don't like coffee...yeah...I'm sorry
 
