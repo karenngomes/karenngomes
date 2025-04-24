@@ -1,5 +1,5 @@
 ### Hi, I'm Karen <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<a href="https://x/gomesskaren">
+<a href="https://x.com/gomesskaren">
   <img align="left" alt="Karen's Twitter" width="22px" src="https://cdn.simpleicons.org/x/blue" />
 </a>
 <a href="https://www.linkedin.com/in/karenngomes/">
