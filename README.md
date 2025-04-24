@@ -3,7 +3,7 @@
   <img align="left" alt="Karen's Twitter" width="22px" src="https://cdn.simpleicons.org/x/blue" />
 </a>
 <a href="https://www.linkedin.com/in/karenngomes/">
-  <img align="left" alt="Karen's LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
+  <img align="left" alt="Karen's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <br />
 <br />
